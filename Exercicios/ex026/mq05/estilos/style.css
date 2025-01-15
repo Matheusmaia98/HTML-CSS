@@ -34,7 +34,7 @@ span#burger:hover {
 }
 
 menu  {
-    display: block;
+    display: none;
 }
 
 menu ul {
@@ -72,5 +72,4 @@ article h2 {
 article p {
     text-align: justify;
     padding-bottom: 10px;
-    text-indent: 20px;
-}
+    text-indent: 20px; }
